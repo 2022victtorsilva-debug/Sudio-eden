@@ -1,0 +1,6 @@
+{
+  "name": "Studio Éden Concept - Salão de Beleza VIP",
+  "description": "Site institucional e moderno do Studio Éden Concept em Maringá - PR. Cortes, escovas, penteados, maquiagem, serviço noturno e atendimento VIP com agendamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
